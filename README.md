@@ -110,6 +110,6 @@ http://127.0.0.1:5000
 
 ## 👨‍💻 Developer
 
-**Gurkirat Singh**
+**Gurkirat kaur**
 
 Cyber Security Project using **Python, Flask, SQLite, Bootstrap, HTML, CSS, JavaScript, and Chart.js**.
